@@ -13,7 +13,7 @@ export default function Education({education}){
   </div>)
     return(<div className="education">
         
-      <TitleSection icon="Scan" titleSection="Education" />
+      <TitleSection icon="School" titleSection="Education" />
       {listItemsEducation}
       
      
