@@ -1,9 +1,10 @@
 import TitleSection from "../TitleSection";
 
-export default function Interets(){
+export default function Interets(props){
+    const interet=props.interets;
     return(<div className="interets">
         <TitleSection/>
-        <div>ceci est une liste </div>
+        <div>{interet} </div>
         </div>
     )
 }

@@ -1,9 +1,9 @@
 import './style.scss';
 import 'material-symbols';
 
-export default function TitleSection(){
-   const icon = "call"
-   const titleSection = "ceci est un titre de section"
+export default function TitleSection(props){
+   const icon = props.icon;
+   const titleSection = props.titleSection;
    
     return(<div className="titleSection">
         <span className="material-symbols-outlined">

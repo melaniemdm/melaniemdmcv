@@ -1,6 +1,7 @@
-export default function TexteCv(){
+export default function TexteCv(props){
+    const texte=props.texte;
     return(<div className="texte">
-            <div>ceci est un texte</div>
+            <div>{texte}</div>
         </div>
     )
 }

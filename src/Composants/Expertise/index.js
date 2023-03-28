@@ -1,9 +1,10 @@
 import TitleSection from "../TitleSection";
-
-export default function Expertise(){
+import './style.scss';
+export default function Expertise(props){
+    const liste=props.liste;
     return(<div className="expertise">
-        <TitleSection/>
-        <div>ceci est une liste a puce</div>
+        <TitleSection icon='Tune' titleSection='Expertise'/>
+        <ul>{liste.map((item,index)=> <li key={index}>{item}</li>)}</ul>
         </div>
     )
 }

@@ -1,7 +1,9 @@
-export default function DateWork(){
+import './style.scss';
+export default function DateWork(props){
+    const date=props.date;
     return(<div className="DateWork">
     
-        <div>1985</div>
+        <div id='date'  className='date'>{date}</div>
         </div>
     )
 }
