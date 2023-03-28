@@ -1,7 +1,6 @@
 import './style.scss';
-export default function Info(props){
-    const information=props.information;
-    const icon = props.icon;
+export default function Information({information, icon}){
+  
     return(<div className="information ">
                <span className="material-symbols-outlined">
 {icon}

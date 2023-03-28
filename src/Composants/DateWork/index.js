@@ -1,6 +1,6 @@
-import './style.scss';
-export default function DateWork(props){
-    const date=props.date;
+
+export default function DateWork({date}){
+  
     return(<div className="DateWork">
     
         <div id='date'  className='date'>{date}</div>

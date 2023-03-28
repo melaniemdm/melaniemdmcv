@@ -1,10 +1,21 @@
+import Liste from "../Liste";
+import Soustitle from "../SousTitle";
+import TexteCv from "../TexteCv";
 import TitleSection from "../TitleSection";
-import './style.scss';
-export default function Expertise(props){
-    const liste=props.liste;
+
+
+export default function Expertise({skills}){
+ const listItemsSkills = skills.map((skill, index)=>  <div key={index}>
+      <Soustitle sousTitle={skill.name} />
+      <TexteCv texte={skill.level}/>
+      <Liste texteList={skill.keywords} />
+ </div> )
+ 
     return(<div className="expertise">
-        <TitleSection icon='Tune' titleSection='Expertise'/>
-        <ul>{liste.map((item,index)=> <li key={index}>{item}</li>)}</ul>
+
+<TitleSection icon="Scan" titleSection="Expertise" /> 
+{listItemsSkills}
+
         </div>
     )
 }

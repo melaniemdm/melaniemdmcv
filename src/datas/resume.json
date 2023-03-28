@@ -1,0 +1,211 @@
+{
+    "basics": {
+    "name": "Melanie MARIANI",
+    "label": "Junior Programmer ",
+    "image": "picture.png",
+    "email": "melanieborja.pro@gmail.com",
+    "phone": "07.84.18.85.72",
+    "url": "https://www.mdm-development.fr/",
+    "summary": "Actuellement en fin de parcours avec OpenClassRoom, j’ai réalisé une formation diplômante bac+3/4 «Développeur d’application – JavaScript React » (anciennement développeur front-end).J'ai découvert le code et c'est devenu une réelle passion, après un début de carrière en tant qu'assistante de direction. En parallèle, de ma formation, j'ai créé MDM DEVELOPMENT afin de réaliser les sites vitrines.",
+    "location": {
+      "address": "13 Villa  Vauthier",
+      "postalCode": "94100",
+      "city": "Saint-Maur-des-Fossés",
+      "countryCode": "France"
+        },
+    "profiles": [
+      {
+        "network": "Linkedin",
+        "username": "Mélanie MARIANI",
+        "url": "www.linkedin.com/in/melanie-mariani"
+      },
+      {
+        "network": "Github",
+        "username": "melaniemdm",
+        "url": "https://github.com/melaniemdm" 
+      }
+   
+   ]
+  },
+  "work": [
+    {
+      "name": "Intelligence Canine ",
+      "location": "Lésigny (77)",
+      "description": "Développeur concepteur",
+      "position": "Développeur concepteur",
+      "url": "https://intelligence-canine.fr/",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": [
+        "Création from scratch du site vitrine",
+        "Création d'un wireframe et d'une maquette Figma",
+        "Gestion du déploiement avec netlify",
+        "Utilisation JavaScript pour le site"
+      ],
+      "highlights": [
+        "Respect du cdc client",
+        "Respect du délais"
+      ]
+    },
+    {
+      "name": "JSMarketing  ",
+      "location": "",
+      "description": "Développeur",
+      "position": "Développeur",
+      "url": "https://jsmarketingconsulting.com/",
+      "startDate": "2021",
+      "endDate": "2021",
+      "summary": [
+        "Création from scratch du site vitrine",
+        "Création d'un wireframe et d'une maquette Figma",
+        "Gestion du déploiement avec netlify",
+        "Utilisation JavaScript pour le site"
+      ],
+      "highlights": [
+        "Respect du cdc client",
+        "Respect du délais"
+      ]
+    }
+  ],
+  "volunteer": [
+    {
+      "organization": "ASMAA",
+      "position": "Website management",
+      "url": "https://www.animaux-saint-maur.com/",
+      "startDate": "2019",
+      "endDate": "2022 ",
+      "summary": "addition of animals to adopt and update of the site",
+      "highlights": [
+        "combine profession and passion"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "institution": "OpenClassRooms - Developpeur Front-end Java-Script React",
+      "url": "https://openclassrooms.com/fr/",
+      "area": "",
+      "studyType": "",
+      "startDate": "2020",
+      "endDate": "2023",
+      "score": "",
+      "courses": [
+        "",
+        ""
+      ]
+    },
+    {
+      "institution": "AFT IFTIM - Formation Tutorat",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2012",
+      "endDate": "2012",
+      "score": "",
+      "courses": [
+        "",
+        ""
+      ]
+    },
+    {
+      "institution": "IMCP - BTS ASSISTANTE DE GESTION PME -PMI",
+      "url": "",
+      "area": "",
+      "studyType": "",
+      "startDate": "2006",
+      "endDate": "2008",
+      "score": "niveau",
+      "courses": [
+        "",
+        ""
+      ]
+    }
+  ],
+  
+  "skills": [
+    {
+      "name": "Web Development",
+      "level": "Medium",
+      "keywords": [
+        "HTML",
+        "CSS",
+        "Javascript",
+        "SASS",
+        "React"
+      ]
+    },
+    {
+      "name": "Content management system (CMS)",
+      "level": "Medium",
+      "keywords": [
+        "Simplébo",
+        "Wordpress"
+      ]
+    },
+    {
+      "name": "Framework CSS",
+      "level": "Medium",
+      "keywords": [
+        "TailwindCss",
+        "Boostrap"
+      ]
+    },
+    {
+      "name": "Divers",
+      "level": "Medium",
+      "keywords": [
+        "Jest",
+        "Figma",
+        "Recharts",
+        "Redux"
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "French",
+      "fluency": "Native speaker"
+    },
+    {
+      "language": "English",
+      "fluency": "Notion"
+    }
+  ],
+  "interests": [
+    {
+      "name": "Music",
+      "keywords": [
+        "Radio"
+           ]
+    },
+    {
+      "name": "Japanese culture",
+      "keywords": [
+        "Slime",
+        "Naruto",
+        "Hunter x hunter...."
+      ]
+    },
+    {
+      "name": "Animal protection association",
+      "keywords": [
+        "Website management",
+        "Social media posts"       
+      ]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jalna Soulage",
+      "reference": "Mélanie a été une aide précieuse dans le development de mon site web. Elle a su résoudre plusieurs de mes problèmes techniques rapidement. Forte de proposition, nous avons ensemble modifié certains éléments et j’en suis ravie. Professionnelle, disponible et très agréable, je recommande Mélanie pour avancer rapidement sur votre projet de site web ! "
+    },
+    {
+      "name": "Intelligence Canine",
+      "reference": "Personne très professionnelle compétente et très réactive.Sa collaboration fut fortement appréciée, un régal de pouvoir faire confiance !"
+    },
+    {
+      "name": "Sylviane Stevenard",
+      "reference": "Merci à MDM development d'avoir fait un super travail ! Rapidité, efficacité, communication, compréhension !Bref un développeur au Top !"
+    }
+  ]
+}

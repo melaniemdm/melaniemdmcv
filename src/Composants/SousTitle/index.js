@@ -1,7 +1,7 @@
-export default function Soustitle(props){
-    const sousTitre=props.sousTitre;
+export default function Soustitle({sousTitle}){
+    
     return(<div className="soustitle">
-            <div><strong>{sousTitre}</strong> </div>
+            <div><strong>{sousTitle}</strong> </div>
         </div>
     )
 }

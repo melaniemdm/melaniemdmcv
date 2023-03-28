@@ -1,13 +1,15 @@
-import TitleSection from "../TitleSection";
-import Information from "../Information";
 
-export default function Contact(){
+import Information from "../Information";
+import TitleSection from "../TitleSection";
+
+export default function Contact({data}){
     return(<div className="contact">
-           <TitleSection icon='info' titleSection='Contact'/>
-           <Information icon ='call' information="07.84.18.85.72"/>
-           <Information icon ='mail' information="melanieborja.pro@gmail.com"/>
-           <Information icon ='location_on' information="13 Villa Vauthier "/>
-           <Information  information=" 94100 SAINT-MAUR-DES-FOSSES"/>
+          
+    <TitleSection icon="info" titleSection="Contact" />
+    <Information icon="call" information={data.phone} />
+    <Information icon="mail" information={data.email} />
+    <Information icon ='location_on' information="13 Villa Vauthier "/>
+    <Information  information=" 94100 SAINT-MAUR-DES-FOSSES"/>
         </div>
     )
 }

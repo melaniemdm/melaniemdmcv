@@ -1,32 +1,21 @@
 import React from "react";
-import DateWork from "../Composants/DateWork";
-import Expertise from "../Composants/Expertise";
+import Experience from "../Composants/Experience";
 import Interets from "../Composants/Interets";
-import TitleSection from "../Composants/TitleSection";
-import Information from "../Composants/Information";
-import "./style.scss";
-import TexteCv from "../Composants/TexteCv";
-import SousTitle from "../Composants/SousTitle";
 
+import data from "../datas/resume.json";
+import Contact from "../Composants/Contact";
+import Expertise from "../Composants/Expertise";
+import Education from "../Composants/Education";
+import Profil from "../Composants/Profil";
 export default function Cv() {
   return (
     <div>
-      <TitleSection icon="info" titleSection="Contact" />
-      <Information icon="call" information="07.84.18.85.72" />
-      <Information icon="mail" information="melanieborja.pro@gmail.com" />
-      <Information icon="location_on" information="13 Villa Vauthier " />
-      <Information information=" 94100 SAINT-MAUR-DES-FOSSES" />
-
-      <TitleSection icon="Person" titleSection="Profil" />
-      <TexteCv texte="ceci est mon profil qui raconte pourquoi je fais ce metier" />
-
-      <TitleSection icon="Scan" titleSection="Education" />
-      <SousTitle SousTitle="indique l'école de" />
-      <TexteCv texte="donne plus de precision" />
-
-      <DateWork date="1985" />
-      <Expertise liste={["HTML5", "CSS", "JavaScript"]} />
-      <Interets interets={"equitation, shooping, lecture"} />
+      <Contact data={data.basics} />
+      <Profil profil={data.basics.summary} />
+      <Experience work={data.work} />
+      <Expertise skills={data.skills} />
+      <Education education={data.education} />
+      <Interets interets={data.interests} />
     </div>
   );
 }
