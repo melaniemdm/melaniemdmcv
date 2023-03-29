@@ -1,0 +1,25 @@
+.containerImage {
+  width: 100vw;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
+
+.image {
+  width: 80vw;
+  max-height: 100%;
+  object-fit: cover;
+ 
+  }
+//pour l'impression
+@media print {
+  .containerImage {
+    height: auto;
+  }
+  .image {
+    height: auto;
+    page-break-inside: avoid;
+  }
+}

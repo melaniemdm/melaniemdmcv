@@ -11,7 +11,7 @@ export default function Experience({work}){
       <Liste texteList={workItem.summary}/>
    </div> )
     return(<div className="experience">
-    <TitleSection icon="group_add" titleSection="Experience" />
+    <TitleSection icon="group_add" titleSection="Experiences" />
 
     {listItemsWorks}
     

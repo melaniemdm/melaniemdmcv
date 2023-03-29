@@ -7,17 +7,23 @@ import Expertise from "../Composants/Expertise";
 import Education from "../Composants/Education";
 import Profil from "../Composants/Profil";
 import './style.scss';
+import Header from "../Composants/Header";
 export default function Cv() {
   return (
     <div className="containerCv">
+      <Header basics={data.basics}/>
+      <div className="containerBloc">
       <div className="bloc1">
       <Contact data={data.basics}/>
       <Profil profil={data.basics.summary} />
-      <Experience work={data.work} /></div>
+      <Experience work={data.work} />
+      <Interets interets={data.interests} />
+      </div>
       <div className="bloc2">
-      <Expertise skills={data.skills} />
       <Education education={data.education} />
-      <Interets interets={data.interests} /></div>
+      <Expertise skills={data.skills} />
+      
+      </div></div>
     </div>
   );
 }

@@ -1,7 +1,27 @@
-.containerCv{
-    display: flex;
-     gap: 50px;
+.containerBloc{
+   display: flex;
+  justify-content: center;
+  align-items: center;
+   gap: 50px;
+     background-color: white;
+    position: absolute;
+    top: 400px;
+    left: 0;
+    width: 100vw;
+   }
+.bloc1,.bloc2{
+     width: 38vw;
+  }
+.bloc2{
+   margin-top:-30px
 }
-.bloc1{
-    width: 50%;
-}
+@media print {
+   .containerBloc {
+    font-size: 10px;
+    top: 300px;
+    gap: 10px;
+   }
+   .bloc2{
+      margin-top:-115px
+   }
+ }

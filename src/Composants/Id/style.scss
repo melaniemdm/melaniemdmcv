@@ -1,0 +1,27 @@
+.containerId{
+    position: absolute;
+      display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 80vw;
+}
+.id{
+    z-index: 100;
+      width: 200px;
+    height: 200px;
+    border-radius: 200px;
+   
+}
+//pour imprimer
+@media print {
+    .containerId {
+      height: auto;
+      justify-content: flex-end;
+    }
+    .id {
+        width: 150px;
+    height: 150px;
+    border-radius: 150px;
+      page-break-inside: avoid;
+    }
+  }

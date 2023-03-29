@@ -1,10 +1,11 @@
+import Image from '../Image';
+import Name from '../Name';
 
-export default function Header() {
+export default function Header({basics}) {
     return (
         <div className="header">
-           <img src="" alt="idMe"/>
-           <h1>Mélanie MARIANI</h1>
-           <h3>Développeur Junior</h3>
+        <Image/>
+        <Name name={basics.name} label={basics.label}/>
         </div>  );
 
 }

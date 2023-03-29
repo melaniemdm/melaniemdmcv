@@ -3,9 +3,9 @@ import TitleSection from "../TitleSection";
 
 export default function Profil({ profil }) {
   return (
-    <div className="Profil">
+    <div className="profil">
       <TitleSection icon="Person" titleSection="Profil" />
-      <TexteCv texte={profil} />
+    <div className="textProfil">  <TexteCv texte={profil} /></div>
     </div>
   );
 }
