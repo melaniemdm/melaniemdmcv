@@ -6,6 +6,7 @@ export default function Header({basics}) {
         <div className="header">
         <Image/>
         <Name name={basics.name} label={basics.label}/>
+        
         </div>  );
 
 }
