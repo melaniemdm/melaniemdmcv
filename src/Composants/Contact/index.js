@@ -1,5 +1,5 @@
 
-
+import './style.scss'
 import Information from "../Information";
 import TitleSection from "../TitleSection";
 

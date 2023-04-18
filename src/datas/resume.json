@@ -6,7 +6,10 @@
     "email": "melanieborja.pro@gmail.com",
     "phone": "07.84.18.85.72",
     "url": "https://www.mdm-development.fr/",
-    "summary": "Actuellement en fin de parcours avec OpenClassRoom, j’ai réalisé une formation diplômante bac+3/4 «Développeur d’application – JavaScript React » (anciennement développeur front-end).J'ai découvert le code et c'est devenu une réelle passion, après un début de carrière en tant qu'assistante de direction. En parallèle, de ma formation, j'ai créé MDM DEVELOPMENT afin de réaliser les sites vitrines.",
+    "summary": ["Je suis actuellement étudiante chez OpenClassrooms en tant que développeur front-end spécialisé en JavaScript et React, avec un niveau Bac+3/4. J'ai travaillé en tant qu'assistante de direction pendant plus de 10 ans avant de découvrir ma passion pour le développement.","\n",  
+    " Je suis à la recherche d'une alternance à partir de septembre 2023 afin de réaliser un cursus en Bac+5 UX Designer. Mon sérieux et ma conscience professionnelle sont des atouts que je mets en avant dans mon parcours.","\n", 
+        " Je suis motivée et engagée à poursuivre mes objectifs et à acquérir de nouvelles compétences pour évoluer dans le domaine du design UX.","\n", 
+        "J'ai hâte de découvrir de nouvelles perspectives et de relever de nouveaux défis dans mon parcours professionnel."],
     "location": {
       "address": "13 Villa  Vauthier",
       "postalCode": "94100",
@@ -37,14 +40,20 @@
       "startDate": "2022",
       "endDate": "2022",
       "summary": [
-        "Création from scratch du site vitrine",
-        "Création d'un wireframe et d'une maquette Figma",
-        "Gestion du déploiement avec netlify",
-        "Utilisation JavaScript pour le site"
+        "Création from scratch du site vitrine, en utilisant des technologies telles que HTML, CSS et JavaScript",
+        "Élaboration d'un wireframe et d'une maquette Figma pour planifier et conceptualiser ",
+        "Déploiement du site vitrine sur une plateforme de hosting en ligne, notamment Netlify, et gestion des paramètres de configuration de l'environnement pour optimiser les performances du site.",
+        "Utilisation de JavaScript pour implémenter des fonctionnalités avancées sur le site web, telles que l'interaction avec l'utilisateur et la manipulation dynamique du contenu.",
+        "Conception et développement une application pour la génération de billets avec des codes QR uniques, ainsi que pour la vérification des entrées sur smartphone. "       
       ],
       "highlights": [
         "Respect du cdc client",
-        "Respect du délais"
+        "Respect du délais",
+        "Compétence en développement web front-end, y compris la création de sites web vitrines, l'utilisation de technologies de pointe telles que HTML, CSS, JavaScript, Figma",
+        "Compétence en gestion du cycle de vie complet des projets web, y compris la planification, la conception, le développement, la mise en production et la maintenance continue des sites web.",
+        "Compétence en déploiement de sites web",
+        "Compétence en développement d'applications mobiles pour smartphones ",
+        "Compétence en travail en autonomie et en collaboration avec le client"
       ]
     },
     {
@@ -56,14 +65,44 @@
       "startDate": "2021",
       "endDate": "2021",
       "summary": [
-        "Création from scratch du site vitrine",
-        "Création d'un wireframe et d'une maquette Figma",
-        "Gestion du déploiement avec netlify",
-        "Utilisation JavaScript pour le site"
+        "Adaptation,d'un thème Wordpress aux psécifités souhiatés par le client",
+        "Création from scratch du site vitrine, en utilisant des technologies telles que HTML, CSS",
+        "Élaboration d'un wireframe et d'une maquette Figma pour planifier et conceptualiser ",
+        "Gestion des paramètres de configuration de l'environnement pour optimiser les performances du site.",
+        "Utilisation de JavaScript pour implémenter des fonctionnalités avancées sur le site web, telles que l'interaction avec l'utilisateur et la manipulation dynamique du contenu."
       ],
       "highlights": [
         "Respect du cdc client",
-        "Respect du délais"
+        "Respect du délais",
+        "Utilisation avancé de Gutenberg(éditeur de bloc Wordpress)",
+        "Compétence en déploiement de sites web",
+        "Compétence en adaptation de thèmes pour les sites web, y compris la compréhension des besoins du client et la personnalisation du design et des fonctionnalités pour répondre à ses exigences spécifiques.",
+                "Compétence en travail en autonomie et en collaboration avec le client"
+      ]
+    },
+    {
+      "name": "Association Saint-Maurienne-des-Amis-Des-Animaux ",
+      "location": "Saint-Maur-Des-Fossés (94)",
+      "description": "Développeur",
+      "position": "Développeur",
+      "url": "https://www.animaux-saint-maur.com/",
+      "startDate": "2019",
+      "endDate": "A ce jour",
+      "summary": [
+        "Adaptation de thèmes pour les sites web, en personnalisant le design et les fonctionnalités pour répondre aux exigences spécifiques des clients, par exemple en adaptant un thème Simplebo.",
+        "Publication de contenu pour les sites web, en créant des articles pertinents et en mettant régulièrement à jour le contenu existant pour assurer la qualité et la pertinence du site.",
+        "Modification de la structure du site",
+        "Community Manager (publication, suivi des statistiques, reponses aux followers..)"
+      ],
+      "highlights": [
+        "Respect du cdc client",
+        "Respect du délais",
+        "Adaptation de thèmes pour les sites web, y compris la compréhension des besoins du client et la personnalisation du design et des fonctionnalités pour répondre à ses exigences spécifiques.",
+        "Publication de contenu pour les sites web, y compris la création d'articles pertinents, la mise à jour du contenu existant et la gestion des bases de données de contenu pour assurer la qualité et la pertinence du site.",
+        "Compétence en travail en autonomie et en collaboration avec le client",
+        "Modification de la structure des sites web",
+        "Collaboration avec les clients et les parties prenantes pour comprendre leurs besoins et leurs attentes, et en communication pour transmettre des informations claires et précises sur les actions entreprises et les résultats obtenus.",
+        "Compétence en travail en autonomie pour planifier et réaliser les tâches assignées, en respectant les délais et les objectifs de qualité et de pertinence fixés."
       ]
     }
   ],
@@ -90,8 +129,14 @@
       "endDate": "2023",
       "score": "",
       "courses": [
-        "",
-        ""
+        "Analyser les besoins à partir du cahier des charges défini par le client ou le chef de projet" ,
+        "Implémenter des mockups avec du code de qualité ",
+        "Optimiser le temps de chargement des pages",
+        "Communiquer avec les développeurs back-end pour assurer l’échange d’information dans l’application",
+        "Utiliser les bonnes pratiques pour structurer le code HTML, CSS et Javascript ",
+        "Utiliser des frameworks comme React pour construire des applications puissantes et modulaires" ,
+        "Tester le bon fonctionnement de l’application et corriger le code quand c’est nécessaire" ,
+        "Assurer le support technique du site et produire une documentation technique et fonctionnelle du site pour le client"
       ]
     },
     {
@@ -103,8 +148,7 @@
       "endDate": "2012",
       "score": "",
       "courses": [
-        "",
-        ""
+       
       ]
     },
     {
@@ -116,8 +160,7 @@
       "endDate": "2008",
       "score": "niveau",
       "courses": [
-        "",
-        ""
+        
       ]
     }
   ],
@@ -131,7 +174,8 @@
         "CSS",
         "Javascript",
         "SASS",
-        "React"
+        "React", 
+        "Next"
       ]
     },
     {
@@ -148,6 +192,17 @@
       "keywords": [
         "TailwindCss",
         "Boostrap"
+      ]
+    },
+        {
+      "name": "Assistante IA",
+      "level": "Medium",
+      "keywords": [
+        "ChatGPT",
+        "Codeium",
+        "Github copilot",
+        "Midjourney"
+        
       ]
     },
     {

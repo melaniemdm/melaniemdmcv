@@ -9,6 +9,9 @@ export default function Experience({work}){
        <SousTitle sousTitle={workItem.name}/>
        <SousTitle sousTitle={workItem.location}/>
       <Liste texteList={workItem.summary}/>
+      Points forts :
+      <Liste texteList={workItem.highlights}/>
+
    </div> )
     return(<div className="experience">
     <TitleSection icon="group_add" titleSection="Experiences" />

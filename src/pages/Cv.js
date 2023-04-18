@@ -15,14 +15,15 @@ export default function Cv() {
       <div className="containerBloc">
       <div className="bloc1">
       <Contact data={data.basics}/>
-      <Profil profil={data.basics.summary} />
+    
       <Experience work={data.work} />
-      <Interets interets={data.interests} />
+     
       </div>
-      <div className="bloc2">
+      <div className="bloc2">  
+      <Profil profil={data.basics.summary} />
       <Education education={data.education} />
       <Expertise skills={data.skills} />
-      
+       <Interets interets={data.interests} />
       </div></div>
     </div>
   );
