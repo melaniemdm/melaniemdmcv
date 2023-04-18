@@ -13,18 +13,24 @@ export default function Cv() {
     <div className="containerCv">
       <Header basics={data.basics}/>
       <div className="containerBloc">
-      <div className="bloc1">
-      <Contact data={data.basics}/>
-    
-      <Experience work={data.work} />
-     
-      </div>
-      <div className="bloc2">  
+ <div className="bloc2">   
+   <Contact data={data.basics}/>
       <Profil profil={data.basics.summary} />
       <Education education={data.education} />
       <Expertise skills={data.skills} />
        <Interets interets={data.interests} />
-      </div></div>
+      </div>
+
+      <div className="bloc1">
+   
+    
+      <Experience work={data.work} />
+     
+      </div>
+
+     
+      
+      </div>
     </div>
   );
 }

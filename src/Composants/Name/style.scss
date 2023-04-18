@@ -1,16 +1,17 @@
 .containerNameImg{
-    width: 100vw;
+    width: 100%;
     position: absolute;
     top:0;
+    left:0;
     display: flex;
    flex-direction: column;
    justify-content: center; 
-   align-items: center;
+  
    
 }
 
 .containerNameID{
     background-color: white;
     color: black;
-     width: 80vw;
+     
 }

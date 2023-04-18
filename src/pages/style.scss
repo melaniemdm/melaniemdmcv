@@ -4,12 +4,13 @@
    display: flex;
   justify-content: center;
   align-items: center;
-   gap: 50px;
+   gap: 100px;
      background-color: white;
     position: absolute;
     top: 400px;
     left: 0;
-    width: 100vw;
+    right: 0;
+ width: 100%;
 padding-bottom: 50px;
    }
 .bloc1,.bloc2{
@@ -18,7 +19,7 @@ padding-bottom: 50px;
   }
 .bloc2{
    margin-top:-120px;
-  //background-color: yellow;
+ 
 }
 // // .bloc1{
 // //   background-color: red;
@@ -30,6 +31,6 @@ padding-bottom: 50px;
     gap: 10px;
    }
    .bloc2{
-      margin-top:-115px
+      margin-top: -360px;
    }
  }

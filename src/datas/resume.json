@@ -36,6 +36,29 @@
       "location": "Lésigny (77)",
       "description": "Développeur concepteur",
       "position": "Développeur concepteur",
+      "url": "https://billetterie-attendance-tracker.netlify.app",
+      "startDate": "2022",
+      "endDate": "2022",
+      "summary": [
+        "Conception from scratch d'une application, en utilisant des technologies telles que HTML, CSS et JavaScript",
+        "Utilisation de JavaScript pour implémenter des fonctionnalités avancées dans uneapplication",
+        "Conception et développement d'une application pour la génération de billets avec des codes QR uniques, ainsi que pour la vérification des entrées sur smartphone. "       
+      ],
+      "highlights": [
+        "Respect du cdc client",
+        "Respect du délais",
+        "Compétence en développement web front-end, y compris la création de sites web vitrines, l'utilisation de technologies de pointe telles que HTML, CSS, JavaScript, Figma",
+        "Compétence en gestion du cycle de vie complet des projets web, y compris la planification, la conception, le développement, la mise en production et la maintenance continue de l'application.",
+        "Compétence en déploiement d'application' web",
+        "Compétence en développement d'applications mobiles pour smartphones ",
+        "Compétence en travail en autonomie et en collaboration avec le client"
+      ]
+    },
+    {
+      "name": "Intelligence Canine ",
+      "location": "Lésigny (77)",
+      "description": "Développeur concepteur",
+      "position": "Développeur concepteur",
       "url": "https://intelligence-canine.fr/",
       "startDate": "2022",
       "endDate": "2022",
@@ -65,7 +88,7 @@
       "startDate": "2021",
       "endDate": "2021",
       "summary": [
-        "Adaptation,d'un thème Wordpress aux psécifités souhiatés par le client",
+        "Adaptation,d'un thème Wordpress aux spécifités souhiatés par le client",
         "Création from scratch du site vitrine, en utilisant des technologies telles que HTML, CSS",
         "Élaboration d'un wireframe et d'une maquette Figma pour planifier et conceptualiser ",
         "Gestion des paramètres de configuration de l'environnement pour optimiser les performances du site.",
