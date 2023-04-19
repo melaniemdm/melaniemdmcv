@@ -2,9 +2,9 @@ import './style.scss';
 export default function Information({information, icon}){
   
     return(<div className="information ">
-               <span className="material-symbols-outlined">
+          <div className='icon'>    <span className="material-symbols-outlined">
 {icon}
-</span>
+</span></div> 
         <div>{information}</div>
         </div>
     )

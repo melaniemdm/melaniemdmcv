@@ -18,7 +18,7 @@ export default function Cv() {
       <Profil profil={data.basics.summary} />
       <Education education={data.education} />
       <Expertise skills={data.skills} />
-       <Interets interets={data.interests} />
+      <Interets interets={data.interests} />
       </div>
 
       <div className="bloc1">

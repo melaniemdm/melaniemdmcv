@@ -6,9 +6,9 @@ export default function TitleSection(props){
    const titleSection = props.titleSection;
    
     return(<div className="titleSection">
-        <span className="material-symbols-outlined">
+      <div className='icon'> <span className="material-symbols-outlined">
 {icon}
-</span>
+</span></div> 
         
         <div>{titleSection}</div>
         </div>
