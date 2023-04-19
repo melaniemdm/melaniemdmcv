@@ -42,12 +42,14 @@
       "summary": [
         "Conception from scratch d'une application, en utilisant des technologies telles que HTML, CSS et JavaScript",
         "Utilisation de JavaScript pour implémenter des fonctionnalités avancées dans uneapplication",
-        "Conception et développement d'une application pour la génération de billets avec des codes QR uniques, ainsi que pour la vérification des entrées sur smartphone. "       
+        "Conception et développement d'une application pour la génération de billets avec des codes QR uniques, ainsi que pour la vérification des entrées sur smartphone. "    
       ],
+      
       "highlights": [
+        "Front-End React, Back-End Rest sous back4app, HTML, CSS et JavaScript,Figma, Netlify",
         "Respect du cdc client",
         "Respect du délais",
-        "Compétence en développement web front-end, y compris la création de sites web vitrines, l'utilisation de technologies de pointe telles que HTML, CSS, JavaScript, Figma",
+        "Compétence en développement web front-end, y compris la création de sites web vitrines, l'utilisation de technologies de pointe. ",
         "Compétence en gestion du cycle de vie complet des projets web, y compris la planification, la conception, le développement, la mise en production et la maintenance continue de l'application.",
         "Compétence en déploiement d'application' web",
         "Compétence en développement d'applications mobiles pour smartphones ",
@@ -67,12 +69,13 @@
         "Élaboration d'un wireframe et d'une maquette Figma pour planifier et conceptualiser ",
         "Déploiement du site vitrine sur une plateforme de hosting en ligne, notamment Netlify, et gestion des paramètres de configuration de l'environnement pour optimiser les performances du site.",
         "Utilisation de JavaScript pour implémenter des fonctionnalités avancées sur le site web, telles que l'interaction avec l'utilisateur et la manipulation dynamique du contenu.",
-        "Conception et développement une application pour la génération de billets avec des codes QR uniques, ainsi que pour la vérification des entrées sur smartphone. "       
+        "Conception et développement une application pour la génération de billets avec des codes QR uniques, ainsi que pour la vérification des entrées sur smartphone. "      
       ],
-      "highlights": [
+          "highlights": [
+        "Front-End React, HTML, CSS, JavaScript, Netlify, Figma " ,
         "Respect du cdc client",
         "Respect du délais",
-        "Compétence en développement web front-end, y compris la création de sites web vitrines, l'utilisation de technologies de pointe telles que HTML, CSS, JavaScript, Figma",
+        "Compétence en développement web front-end, y compris la création de sites web vitrines, l'utilisation de technologies de pointe.",
         "Compétence en gestion du cycle de vie complet des projets web, y compris la planification, la conception, le développement, la mise en production et la maintenance continue des sites web.",
         "Compétence en déploiement de sites web",
         "Compétence en développement d'applications mobiles pour smartphones ",
@@ -92,15 +95,16 @@
         "Création from scratch du site vitrine, en utilisant des technologies telles que HTML, CSS",
         "Élaboration d'un wireframe et d'une maquette Figma pour planifier et conceptualiser ",
         "Gestion des paramètres de configuration de l'environnement pour optimiser les performances du site.",
-        "Utilisation de JavaScript pour implémenter des fonctionnalités avancées sur le site web, telles que l'interaction avec l'utilisateur et la manipulation dynamique du contenu."
+        "Utilisation de JavaScript pour implémenter des fonctionnalités avancées sur le site web, telles que l'interaction avec l'utilisateur et la manipulation dynamique du contenu."  
       ],
       "highlights": [
+        "CSS, HTML, Wordpress ",
         "Respect du cdc client",
         "Respect du délais",
         "Utilisation avancé de Gutenberg(éditeur de bloc Wordpress)",
         "Compétence en déploiement de sites web",
         "Compétence en adaptation de thèmes pour les sites web, y compris la compréhension des besoins du client et la personnalisation du design et des fonctionnalités pour répondre à ses exigences spécifiques.",
-                "Compétence en travail en autonomie et en collaboration avec le client"
+        "Compétence en travail en autonomie et en collaboration avec le client"
       ]
     },
     {
@@ -116,8 +120,9 @@
         "Publication de contenu pour les sites web, en créant des articles pertinents et en mettant régulièrement à jour le contenu existant pour assurer la qualité et la pertinence du site.",
         "Modification de la structure du site",
         "Community Manager (publication, suivi des statistiques, reponses aux followers..)"
-      ],
+              ],
       "highlights": [
+        "Simplebo " ,
         "Respect du cdc client",
         "Respect du délais",
         "Adaptation de thèmes pour les sites web, y compris la compréhension des besoins du client et la personnalisation du design et des fonctionnalités pour répondre à ses exigences spécifiques.",
@@ -171,11 +176,12 @@
       "endDate": "2012",
       "score": "",
       "courses": [
-       
+       "Tutrice pendant 3 ans",
+       "Transmition du savoir faire"
       ]
     },
     {
-      "institution": "IMCP - BTS ASSISTANTE DE GESTION PME -PMI",
+      "institution": "IMCP - BTS ASSISTANTE DE GESTION PME -PMI en alternance",
       "url": "",
       "area": "",
       "studyType": "",
@@ -183,7 +189,10 @@
       "endDate": "2008",
       "score": "niveau",
       "courses": [
-        
+        "Organisation d’évènements",
+        "Veille",
+        "Préparation de dossiers",
+        "Gestion des ressources humaines"
       ]
     }
   ],
