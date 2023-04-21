@@ -1,0 +1,12 @@
+.experienceItems{
+     display: grid;
+    grid-template-columns:  2fr 14fr;
+    
+}
+
+.experienceItemsBloc1{
+    grid-column: 1/2;
+}
+.experienceItemsBloc2{  
+    grid-column: 2/4;
+}

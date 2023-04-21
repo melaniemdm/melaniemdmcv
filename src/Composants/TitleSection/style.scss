@@ -8,9 +8,7 @@
     padding-top: 10px;
     padding-bottom: 10px;
     padding-left: 10px;
-    margin-top: 10px;
-    margin-bottom: 10px;
-}
+} 
 
 
   @media #{$small-down} {
@@ -25,4 +23,18 @@
     .icon span{
        font-size: 15px;
     }
+  }
+
+  @media print {
+    .titleSection {
+      font-size: 13px;
+      padding-top: 3px;
+      padding-bottom: 0px;
+      padding-left: 0px;
+      margin-top: 3px;
+      margin-bottom: 0px;
+  }
+  .icon span{
+    font-size: 15px;
+ }
   }
